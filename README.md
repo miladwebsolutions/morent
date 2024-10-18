@@ -13,7 +13,3 @@ MORENT is dedicated to providing exceptional car rental services tailored to mee
 5. **Dashboard:** Access your account effortlessly. The dashboard provides a personalized overview of your rentals, preferences, and account settings, making it simple to manage your bookings.
 
 As MORENT continues to grow, we remain committed to expanding our services and features, ensuring that your car rental experience is as smooth and enjoyable as possible. Discover the freedom of the road with MORENT today!
-
---- 
-
-Feel free to adjust any parts of the description to better fit your brand's voice or specific offerings!
