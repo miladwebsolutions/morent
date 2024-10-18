@@ -1,7 +1,3 @@
-Here’s a polished description for MORENT that highlights its services and website features:
-
----
-
 **MORENT: Your Premier Car Rental Service**
 
 MORENT is dedicated to providing exceptional car rental services tailored to meet the diverse needs of our customers. Our user-friendly website features five key pages designed to enhance your rental experience:
